@@ -1,0 +1,21 @@
+{
+    "name":  "deep-thinking-plugin",
+    "version":  "0.0.0",
+    "description":  "",
+    "main":  "dist/index.js",
+    "types":  "dist/index.d.ts",
+    "scripts":  {
+                    "start":  "tsc \u0026\u0026 node --enable-source-maps dist/index.js",
+                    "build":  "tsc"
+                },
+    "author":  "Your Name",
+    "license":  "UNLICENSED",
+    "dependencies":  {
+                         "@lmstudio/sdk":  "^2.1.0"
+                     },
+    "gitHead":  "0eca19214f508db23c0807598fcba63cb8ba7557",
+    "devDependencies":  {
+                            "@types/node":  "^22.13.1",
+                            "typescript":  "^5.7.2"
+                        }
+}

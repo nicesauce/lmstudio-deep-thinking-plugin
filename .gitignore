@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.turbo/
+.lmstudio/
+*.log
+.DS_Store
